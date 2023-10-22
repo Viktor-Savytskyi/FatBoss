@@ -1,8 +1,0 @@
-${PODS_ROOT}/Target Support Files/Pods-FatBoss/Pods-FatBoss-frameworks.sh
-${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
-${BUILT_PRODUCTS_DIR}/Locksmith/Locksmith.framework
-${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
-${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
-${BUILT_PRODUCTS_DIR}/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework
-${BUILT_PRODUCTS_DIR}/Swinject/Swinject.framework
-${BUILT_PRODUCTS_DIR}/SwinjectStoryboard/SwinjectStoryboard.framework
